@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://res.cloudinary.com/daegoktia/image/upload/v1641915285/background_ohyo7i.jpg" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/daegoktia/image/upload/v1641913114/web_bj9lfd.gif" align="center" style="width: 100%" />
 </div>  
   
 
