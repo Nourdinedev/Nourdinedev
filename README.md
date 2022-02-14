@@ -3,7 +3,11 @@
 </div>  
   
 
-### Hi I'm Nourdine 25 years old, I'm a web developer based on Morocco 🇲🇦, I describe myself as a passionate developer who loves building things for the web and reading about modern web technologies.  
+### I'm a full stack developer located in Morocco, I enjoy creating things that live on the web, I have a serious passion for building modern and accessible web applications that provide a dynamic experience for the user.
+
+### On a personality perspective, I'm a Well-organised person with problem solving mindset and high attention to detail.
+
+### I'm Interested in the entire front-end spectrum and I have a good knowledge of the back-end (using Node.js), I Love to work on ambitious projects with positive people.
   
 
 <br/>  
