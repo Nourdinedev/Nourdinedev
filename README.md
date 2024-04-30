@@ -68,6 +68,12 @@
 
 <br/>  
 
+## GitHub Stats
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=Nourdinedev&theme=github-dark&hide_border=true&card_width=650)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourdinedev&theme=github_dark) 
+
+
 ## Contact me
 <div align="center">
 <a href="https://github.com/Nourdinedev" target="_blank">
