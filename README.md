@@ -70,7 +70,7 @@
 
 ## GitHub Stats
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Nourdinedev&theme=github-dark&hide_border=true&card_width=700)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=Nourdinedev&theme=github-dark&hide_border=true&card_width=700)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourdinedev&theme=github_dark) 
 
 
